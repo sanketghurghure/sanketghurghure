@@ -47,6 +47,10 @@ This project covers main features of 4 sections of MIT Scratch
 3. Redux
 4. Material UI
 
+
+This project also covers New features such as history And Replay
+
+
 ##### NOTE:
 Almost All functions are attached with **transition**.
 There might be some delay in executing few functions. I know you would be very much excited for seeing it in action. 😄. Just a little patience 😊
